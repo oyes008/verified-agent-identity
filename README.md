@@ -117,3 +117,4 @@ Prompt injection and arbitrary code execution are structurally impossible: the e
 ## Documentation
 
 See [SKILL.md](SKILL.md) for detailed usage instructions and examples.
+test workflow verify agent
